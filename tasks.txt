@@ -1,3 +1,3 @@
 1. What is Git and GitHub?
-2. git branching and meriging (modified from feature a)
+2. git branching and meriging (resolve the conflict)
 3. Open source collaboration
